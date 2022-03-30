@@ -37,9 +37,19 @@ Estimate of time needed to complete: __1.5hr___
 
 Start time: __2:30___
 
-Finish time: _____
+Finish time: __4pm___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___1.5hr__
+
+Name of feature: _____________Add Post and Delete___________________
+
+Estimate of time needed to complete: __1hr___
+
+Start time: ___1pm__
+
+Finish time: __2pm___
+
+Actual time needed to complete: __1hr___
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
