@@ -9,7 +9,7 @@ Books are life-changing. They have the power to enlighten, educate, entertain, h
 # Can of Books
 
 **Author**: Tai Egashira and Eden Brekke
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.3 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
@@ -50,6 +50,16 @@ Start time: ___1pm__
 Finish time: __2pm___
 
 Actual time needed to complete: __1hr___
+
+Name of feature: _____________Add Put update capabilities___________________
+
+Estimate of time needed to complete: __30min___
+
+Start time: ___12pm__
+
+Finish time: __12:30pm___
+
+Actual time needed to complete: __30min___
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
