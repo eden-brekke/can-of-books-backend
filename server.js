@@ -63,6 +63,17 @@ app.delete('/books/:id', async (request, response, next) => {
     next(error);
   }
 })
+
+app.put('/books/:id', async (request, response, next) => {
+  let id = request.params.id;
+  try {
+    let updatedBook = await Book.findByIdAndUpdate(id, request.body, { new: true, overwrite: true});
+    response.status(200).send(updatedBook);
+  } catch(error){
+    next(error);
+  }
+})
+
 app.get('/test', (request, response) => {
 
   response.send('test request received')
