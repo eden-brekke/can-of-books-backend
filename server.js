@@ -52,7 +52,7 @@ app.post('/books', async (request, response) => {
   }
 })
 
-app.delete('/books/:id', async (request, response) => {
+app.delete('/books/:id', async (request, response, next) => {
   let id = request.params.id;
   try {
     // Rest term - delete | mongoose Model.findByIdAndDelete()
